@@ -11,7 +11,7 @@ H & F & D & B
 \end{matrix}
 $$
 
-Tedy obratel by mohlo být anotován následovně:
+Tedy obratel by měl být anotován následovně (přesnost bodů resp. křivek není pro manuál důležitá):
 
 ![](screenshots/login/verte_annotation.png)
 
