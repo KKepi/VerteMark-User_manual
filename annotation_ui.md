@@ -28,7 +28,7 @@ V případě, že jste v režimu **validátora** budete navíc moct manipulovat 
 
 ## Oříznutí, zrcadlení a smazání vybrané anotace
 
-Vlevo v horním rohu se nachází panel pro **oříznutí** snímku, **zrcadlení** snímku, přepnutí zpět na anotaci a také smazání vybrané anotace.
+Vlevo v horním rohu se nachází panel pro **oříznutí** snímku, **zrcadlení** snímku, **přepnutí** zpět na anotaci a také **smazání** vybrané anotace.
 
 ![](screenshots/login/step_14-panel_pro_oriznout_nebo_zrcadlit_snimek-kreslit-zahodit_vsechny_anotace.png)
 
