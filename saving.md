@@ -1,8 +1,6 @@
-# Ukládání anotovaných snímků
+# Ukládání anotovaných/validovaných snímků
 
-![](screenshots/login/step_9-vertemark_annotate.png)
-
-Vpravo v horním rohu naleznete možnost pro otevření nového VMK souboru. Pokud jste soubor neuložili vyskočí na vás výzva pro uložení.
+Vpravo v horním rohu naleznete ikonku pro otevření nového VMK souboru. Pokud jste soubor neuložili vyskočí na vás výzva pro uložení.
 
 ![](screenshots/login/step_16-open_new_dicom.png)
 
